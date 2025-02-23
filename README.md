@@ -1,5 +1,5 @@
 ## Hi there 👋
-This repository contains all the fullstack assignments.
+This repository contains all the fullstack assignments from Ethnus Internship training program.
 <!--
 **Tharunyasri-10/Tharunyasri-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
